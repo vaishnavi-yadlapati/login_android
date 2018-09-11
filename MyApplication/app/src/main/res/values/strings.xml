@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tvInfo">No of attempts remaining:5</string>
+</resources>
